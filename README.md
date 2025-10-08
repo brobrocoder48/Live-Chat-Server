@@ -1,14 +1,6 @@
 # CHATROOM - LiveChatServer 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)       [![](https://img.shields.io/github/release/iamrohitsuthar/LiveChatServer)](https://github.com/iamrohitsuthar/LiveChatServer/releases/tag/v4.0)                        [![](https://img.shields.io/github/license/iamrohitsuthar/LiveChatServer)](https://github.com/iamrohitsuthar/LiveChatServer/blob/master/LICENSE)
-<table>
-<tr>
-<td>
-LiveChatServer is a Live CHATROOM which allows multiple users (Clients) to chat with each other.
-</td>
-</tr>
-</table>
 
-<img src="http://iamrohitsuthar.000webhostapp.com/android/github/LiveChatServer/login.png" width="738">
+LiveChatServer is a Live CHATROOM which allows multiple users (Clients) to chat with each other.
 
 ## Features
 
