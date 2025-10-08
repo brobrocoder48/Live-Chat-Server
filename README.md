@@ -80,27 +80,6 @@ To fix a bug or enhance an existing module, follow these steps:
 - Commit your changes (`git commit -am 'Improve feature'`)
 - Push to the branch (`git push origin improve-feature`)
 - Create a Pull Request 
-  
- 
-### Bug / Feature Request
-
-If you find a bug (the application couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/iamrohitsuthar/LiveChatServer/issues/new).
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/iamrohitsuthar/LiveChatServer/issues/new).
-
-## Screenshots
-
-#### Sign In Activity
-<img src="http://iamrohitsuthar.000webhostapp.com/android/github/LiveChatServer/sign-in.png" width="738">
-
-#### Main Menu Activity
-<img src="http://iamrohitsuthar.000webhostapp.com/android/github/LiveChatServer/menu_options.png" width="738">
-
-#### View Rooms Activty
-<img src="http://iamrohitsuthar.000webhostapp.com/android/github/LiveChatServer/view_rooms.png" width="738">
-
-#### Chat Activity
-<img src="http://iamrohitsuthar.000webhostapp.com/android/github/LiveChatServer/chat_activity.png" width="738">
 
 
 ## License
